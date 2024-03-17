@@ -1,0 +1,14 @@
+TICKET DE COMPRAS 
+Nombre: Zapatillas
+Precio: 2000
+Marca: adidas
+Talla: 34
+Color: Azul
+Tipo: dama
+TICKET DE COMPRAS 
+Nombre: Tenis Deportivos
+Precio: $1,500
+Marca: adidas
+Talla: unisex
+Color: Blanco
+Tipo: niño
